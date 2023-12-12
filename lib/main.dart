@@ -26,6 +26,7 @@ class Home extends StatelessWidget {
             }
           },
            child: MaterialApp(
+            title: 'DDD Pattern',
              debugShowCheckedModeBanner: false,
              home: HomePage(),
            ),
