@@ -34,7 +34,7 @@ final labelController = TextEditingController();
                                   controller: labelController,
                                   decoration: InputDecoration(
                                     contentPadding: EdgeInsets.symmetric(horizontal: 20),
-                                      hintText: 'add some todo'
+                                      hintText: 'add some todo with sample'
                                   ),
                                 )
                             ),
